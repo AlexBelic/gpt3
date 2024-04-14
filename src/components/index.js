@@ -1,0 +1,5 @@
+export { default as Article } from './article/Article'
+export { default as Brend } from './brend/Brend'
+export { default as CTA } from './cta/Cta'
+export { default as Features } from './feature/Feature'
+export { default as Navbar } from './navbar/Navbar'
